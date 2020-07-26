@@ -1,1 +1,2 @@
 # Student-Catalogue-System
+I have made a Student Catalogue System using C++ and file handling.In this we can collect information of a particular student and maintain a proper database of it. As I had been a core member of organising committee, it was tough task to collect information of every particular participant so I made this Console application which helped a lot during the process. In this we can add participant’s detail,search for a particular participant and view  detail of all the participants at once.
